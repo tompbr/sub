@@ -1,0 +1,3403 @@
+1
+05:20:00,000 --> 15:06:40,000
+<span style="style.default_1">Halo, para murid dan guru-guru.</span>
+
+2
+21:20:00,000 --> 16:53:20,000
+Hei, ini...
+
+3
+23:06:40,000 --> 12:26:40,000
+<span style="style.default_1">Saat ini, aku, Sansanee Tichakun,<br/>telah kembali</span>
+
+4
+15:06:40,000 --> 10:40:00,000
+<span style="style.default_1">dan sebagai Direktur<br/>Sekolah Satree Lerdla,</span>
+
+5
+00:53:20,000 --> 08:53:20,000
+<span style="style.default_1">aku ingin membatalkan</span>
+
+6
+11:33:20,000 --> 22:13:20,000
+<span style="style.default_1">sistem nilai dan peringkat</span>
+
+7
+19:33:20,000 --> 12:26:40,000
+<span style="style.default_1">mulai saat ini,</span>
+
+8
+04:26:40,000 --> 06:13:20,000
+<span style="style.default_1">dan kita akan mulai kembali</span>
+
+9
+12:26:40,000 --> 04:26:40,000
+<span style="style.default_1">dari nol.</span>
+
+10
+11:33:20,000 --> 05:20:00,000
+4 TAHUN LALU
+
+11
+17:46:40,000 --> 05:20:00,000
+Semuanya.
+
+12
+06:13:20,000 --> 05:20:00,000
+Seperti kita tahu, sistem peringkat<br/>atau sistem nilai pribadi
+
+13
+00:00:00,000 --> 04:26:40,000
+akan mendorong sekolah kita
+
+14
+23:06:40,000 --> 18:40:00,000
+menjadi lebih maju.
+
+15
+16:00:00,000 --> 11:33:20,000
+Ini bukan hanya akan menunjukkan<br/>kepada semua betapa maju sekolah kita
+
+16
+17:46:40,000 --> 17:46:40,000
+dan betapa mudah nilai diakses,
+
+17
+00:00:00,000 --> 23:06:40,000
+ini juga akan menjadikan para murid<br/>mengetahui kondisi mereka
+
+18
+08:53:20,000 --> 06:13:20,000
+dan mendorong mereka untuk berkembang.
+
+19
+00:53:20,000 --> 22:13:20,000
+Dengan ini, nilai murid tak lagi<br/>jadi misteri yang hanya diketahui guru,
+
+20
+04:26:40,000 --> 09:46:40,000
+atau hanya di rapor sekolah.
+
+21
+11:33:20,000 --> 08:53:20,000
+Aku ada pertanyaan.
+
+22
+10:40:00,000 --> 00:00:00,000
+Bukankah murid dengan peringkat rendah<br/>akan merasa buruk?
+
+23
+00:53:20,000 --> 16:00:00,000
+Setiap kali mereka membuka<br/>aplikasi sekolah,
+
+24
+22:13:20,000 --> 23:06:40,000
+mereka akan melihat nama mereka<br/>di urutan bawah.
+
+25
+17:46:40,000 --> 04:26:40,000
+Karena itu kita, sebagai guru,<br/>bertanggung jawab
+
+26
+10:40:00,000 --> 19:33:20,000
+memotivasi mereka berusaha lebih.
+
+27
+17:46:40,000 --> 12:26:40,000
+Kita harus membuat mereka<br/>merasa selalu bersaing
+
+28
+18:40:00,000 --> 09:46:40,000
+karena nilai dan peringkat mereka<br/>selalu bisa naik.
+
+29
+16:00:00,000 --> 16:53:20,000
+Anggap ini sebagai pasar bebas.
+
+30
+20:26:40,000 --> 00:00:00,000
+Kompetisi sengit berarti akan<br/>meningkatkan kualitas produk.
+
+31
+05:20:00,000 --> 02:40:00,000
+Aku hanya membuat perbandingan.
+
+32
+21:20:00,000 --> 15:06:40,000
+Aku sadar murid-murid bukan produk.
+
+33
+21:20:00,000 --> 07:06:40,000
+Murid-murid adalah masa depan negara kita.
+
+34
+13:20:00,000 --> 15:06:40,000
+Mereka akan lulus<br/>dan membantu negara kita.
+
+35
+21:20:00,000 --> 00:53:20,000
+Jadi, tugas kita
+
+36
+22:13:20,000 --> 08:00:00,000
+menciptakan sumber daya bernilai<br/>demi negara kita.
+
+37
+09:46:40,000 --> 15:06:40,000
+<span style="style.default_1">Setelah menyerahkan tugas administrasi<br/>kepada Wakil Direktur,</span>
+
+38
+12:26:40,000 --> 08:00:00,000
+<span style="style.default_1">aku hanya menunggu pensiunku.</span>
+
+39
+05:20:00,000 --> 21:20:00,000
+<span style="style.default_1">Aku kembali ke sekolah ini</span>
+
+40
+20:26:40,000 --> 17:46:40,000
+<span style="style.default_1">karena ingin merawat kebun kecil<br/>di belakang sekolah tersayangku.</span>
+
+41
+08:00:00,000 --> 03:33:20,000
+<span style="style.default_1">Tapi hal yang kutakutkan<br/>menjadi kenyataan.</span>
+
+42
+07:06:40,000 --> 18:40:00,000
+<span style="style.default_1">Aku mengetahui bahwa seorang murid<br/>menjadi korban</span>
+
+43
+00:53:20,000 --> 16:00:00,000
+<span style="style.default_1">sistem yang diciptakan Wakil Direktur.</span>
+
+44
+20:26:40,000 --> 21:20:00,000
+<span style="style.default_1">Tak ada yang bisa membantu<br/>murid malang itu.</span>
+
+45
+13:20:00,000 --> 16:00:00,000
+<span style="style.default_1">Setelah itu,</span>
+
+46
+22:13:20,000 --> 00:53:20,000
+<span style="style.default_1">aku minta Bu May memberitahuku<br/>semua yang terjadi di sekolah.</span>
+
+47
+00:53:20,000 --> 19:33:20,000
+Apa kau tahu soal kelompok<br/>bernama Domba Hitam?
+
+48
+17:46:40,000 --> 09:46:40,000
+<span style="style.default_1">Aku tahu</span>
+
+49
+23:06:40,000 --> 16:53:20,000
+<span style="style.default_1">ada kelompok murid yang menentang<br/>perbuatan Wichai.</span>
+
+50
+22:13:20,000 --> 00:53:20,000
+<span style="style.default_1">Kelompok ini bernama Domba Hitam.</span>
+
+51
+21:20:00,000 --> 18:40:00,000
+<span style="style.default_1">Bu May juga tahu</span>
+
+52
+19:33:20,000 --> 07:06:40,000
+<span style="style.default_1">mereka murid-muridnya dari Kelas F.</span>
+
+53
+14:13:20,000 --> 06:13:20,000
+Itu masalah pentingnya.
+
+54
+06:13:20,000 --> 05:20:00,000
+- Tapi sekarang, aku yakin bahwa...<br/><span style="style.default_1">- Dan aku...</span>
+
+55
+11:33:20,000 --> 00:00:00,000
+- Domba Hitam adalah murid kelasku.<br/><span style="style.default_1">- juga tahu tentang...</span>
+
+56
+06:13:20,000 --> 00:53:20,000
+- Ada satu murid, Prapang,<br/><span style="style.default_1">- salah satu murid Kelas A</span>
+
+57
+07:06:40,000 --> 15:06:40,000
+- dipindahkan ke Kelas F.<br/><span style="style.default_1">- baru-baru ini dipindahkan ke Kelas F.</span>
+
+58
+10:40:00,000 --> 16:53:20,000
+<span style="style.default_1">Firasatku mengatakan murid-murid Kelas F</span>
+
+59
+23:06:40,000 --> 08:53:20,000
+<span style="style.default_1">akan membawa perubahan pada sekolah ini.</span>
+
+60
+15:06:40,000 --> 05:20:00,000
+Dia tadinya mata-mata Wakil Direktur.
+
+61
+23:06:40,000 --> 02:40:00,000
+<span style="style.default_1">Lalu, suatu hari, Bu May memberitahuku</span>
+
+62
+08:53:20,000 --> 07:06:40,000
+<span style="style.default_1">Wakil Direktur ingin<br/>Domba Hitam dibubarkan.</span>
+
+63
+20:26:40,000 --> 05:20:00,000
+- Dia memberikan perintah khusus.<br/><span style="style.default_1">- Saat itu,</span>
+
+64
+11:33:20,000 --> 21:20:00,000
+- Jika satu anggotanya melanggar,<br/><span style="style.default_1">- aku putuskan</span>
+
+65
+03:33:20,000 --> 20:26:40,000
+- seluruh kelas akan dikeluarkan.<br/><span style="style.default_1">- pensiunan guru sepertiku</span>
+
+66
+02:40:00,000 --> 12:26:40,000
+<span style="style.default_1">perlu bertindak untuk semua murid</span>
+
+67
+18:40:00,000 --> 20:26:40,000
+<span style="style.default_1">di sekolah ini.</span>
+
+68
+06:13:20,000 --> 03:33:20,000
+Aku akan mengurus ini sendiri.
+
+69
+16:00:00,000 --> 15:06:40,000
+<span style="style.default_1">Aku ingin membatalkan</span>
+
+70
+21:20:00,000 --> 10:40:00,000
+<span style="style.default_1">sistem nilai dan peringkat</span>
+
+71
+16:53:20,000 --> 03:33:20,000
+<span style="style.default_1">mulai saat ini.</span>
+
+72
+22:13:20,000 --> 16:00:00,000
+Ayo, Bu May. Kita banyak pekerjaan.
+
+73
+14:13:20,000 --> 13:20:00,000
+- Ya, Bu.<br/>- Direktur.
+
+74
+06:13:20,000 --> 04:26:40,000
+Kau tak bisa melakukan ini.
+
+75
+02:40:00,000 --> 18:40:00,000
+Kau tak punya kuasa administrasi.
+
+76
+23:06:40,000 --> 00:53:20,000
+Kenapa tidak bisa?
+
+77
+07:06:40,000 --> 14:13:20,000
+Aku direkturnya,<br/>dan kau hanya wakil direktur.
+
+78
+06:13:20,000 --> 17:46:40,000
+Aku menyerahkan tugasku padamu
+
+79
+00:00:00,000 --> 12:26:40,000
+hanya saat aku sedang cuti.
+
+80
+18:40:00,000 --> 09:46:40,000
+Kau pikir dewan direksi,
+
+81
+19:33:20,000 --> 20:26:40,000
+perkumpulan orang tua, dan asosiasi alumni
+
+82
+02:40:00,000 --> 08:53:20,000
+akan membiarkanmu berbuat sesukamu?
+
+83
+15:06:40,000 --> 22:13:20,000
+Jangan kira hanya kau yang punya koneksi.
+
+84
+02:40:00,000 --> 17:46:40,000
+Walau aku akan pensiun tiga bulan lagi,
+
+85
+16:00:00,000 --> 15:06:40,000
+dewan direksi, perkumpulan orang tua,
+
+86
+04:26:40,000 --> 03:33:20,000
+dan asosiasi alumni
+
+87
+19:33:20,000 --> 00:00:00,000
+setuju membiarkanku kembali.
+
+88
+19:33:20,000 --> 20:26:40,000
+Satu-satunya yang belum mengetahui ini<br/>hanya kau.
+
+89
+04:26:40,000 --> 16:53:20,000
+Ayo, Bu May.
+
+90
+08:53:20,000 --> 01:46:40,000
+ADA APA DENGAN #SETZERO INI?<br/>APA LAMAN SEKOLAH DIBAJAK?
+
+91
+05:20:00,000 --> 10:40:00,000
+JIKA TAK DIPERBAIKI HARI INI,<br/>ORANG TUAKU AKAN MARAH.
+
+92
+16:53:20,000 --> 00:00:00,000
+KITA PAKAI APA UNTUK MASUK UNIVERSITAS?
+
+93
+06:13:20,000 --> 00:53:20,000
+SIAPA YANG BERTANGGUNG JAWAB UNTUK INI?
+
+94
+07:06:40,000 --> 16:53:20,000
+HAK KHUSUS DICABUT.<br/>AKU AKAN PAKAI RUANG MAKAN KELAS A.
+
+95
+05:20:00,000 --> 12:26:40,000
+JUJUR SAJA, KEREN TAK ADA PERINGKAT<br/>DAN DEWAN SISWA.
+
+96
+09:46:40,000 --> 23:06:40,000
+KITA AKAN LALUI INI BERSAMA.<br/>#SELAMATKANSATREELERDLA
+
+97
+08:00:00,000 --> 14:13:20,000
+Halo.
+
+98
+03:33:20,000 --> 21:20:00,000
+Halo. Pang, ini kau?
+
+99
+00:53:20,000 --> 16:00:00,000
+<span style="style.default_1">Ya, ini aku.</span>
+
+100
+00:00:00,000 --> 04:26:40,000
+Apa kabarmu?
+
+101
+00:00:00,000 --> 13:20:00,000
+Aku baik-baik saja.<br/>Aku baru mulai mengajar di sekolah baruku.
+
+102
+12:26:40,000 --> 00:53:20,000
+Aku baru mulai. Jadi, agak melelahkan.
+
+103
+20:26:40,000 --> 15:06:40,000
+<span style="style.default_1">Tapi menyenangkan.</span>
+
+104
+04:26:40,000 --> 16:53:20,000
+Apa kabarmu?
+
+105
+18:40:00,000 --> 08:00:00,000
+Aku baik-baik saja.
+
+106
+19:33:20,000 --> 04:26:40,000
+Seluruh geng hampir dikeluarkan,<br/>tapi kami melaluinya.
+
+107
+09:46:40,000 --> 04:26:40,000
+Apa maksudmu?
+
+108
+17:46:40,000 --> 10:40:00,000
+Direktur kembali berkuasa,<br/>dan dia memerintahkan Set Zero.
+
+109
+20:26:40,000 --> 16:53:20,000
+Jadi, nilai semuanya dijadikan nol.
+
+110
+15:06:40,000 --> 12:26:40,000
+Wakil Direktur tidak berkuasa lagi.
+
+111
+08:53:20,000 --> 08:00:00,000
+Sekolah pasti kacau sekarang.
+
+112
+07:06:40,000 --> 05:20:00,000
+Jadi, bagaimana keadaanmu?
+
+113
+00:00:00,000 --> 02:40:00,000
+Aku tak tahu harus bagaimana lagi.
+
+114
+22:13:20,000 --> 00:53:20,000
+Semua gila sekarang.
+
+115
+23:06:40,000 --> 01:46:40,000
+Ini berat bagi murid SMP dan SMA,<br/>apalagi senior.
+
+116
+05:20:00,000 --> 04:26:40,000
+Maaf aku tak ada di sana.
+
+117
+00:00:00,000 --> 00:53:20,000
+Tidak apa-apa.
+
+118
+18:40:00,000 --> 04:26:40,000
+Jaga dirimu.
+
+119
+09:46:40,000 --> 06:13:20,000
+Tolong jaga Meen untukku.
+
+120
+00:53:20,000 --> 00:00:00,000
+Kapan kita akan bertemu lagi?
+
+121
+22:13:20,000 --> 23:06:40,000
+Entahlah.
+
+122
+22:13:19,000 --> 10:39:59,000
+Sungguh?
+
+123
+17:46:40,000 --> 03:33:20,000
+Lakukan yang terbaik di sana.
+
+124
+14:13:20,000 --> 02:40:00,000
+Terima kasih. Kau juga.
+
+125
+08:00:00,000 --> 16:53:20,000
+Baiklah.
+
+126
+04:26:40,000 --> 12:26:40,000
+Hai.
+
+127
+18:40:00,000 --> 17:46:40,000
+- Makanan di sini enak.<br/>- Boleh kucoba?
+
+128
+08:00:00,000 --> 02:40:00,000
+- Boleh minta mentimun?<br/>- Kau mau?
+
+129
+11:33:20,000 --> 22:13:20,000
+- Aku masih lapar.<br/>- Makan mentimun ini.
+
+130
+23:06:40,000 --> 02:40:00,000
+Hei.
+
+131
+17:46:40,000 --> 00:00:00,000
+Apa?
+
+132
+19:33:20,000 --> 08:53:20,000
+Keluar dari sini. Ini meja Tam.
+
+133
+13:20:00,000 --> 23:06:40,000
+Sungguh? Apa ada namanya di sini?
+
+134
+03:33:20,000 --> 16:53:20,000
+Apa kau sudah gila?
+
+135
+00:00:00,000 --> 14:13:20,000
+Kalian keterlaluan.<br/>Keluar dari sini sekarang.
+
+136
+23:06:40,000 --> 02:40:00,000
+- Tidak mau.<br/>- Ini meja kami.
+
+137
+22:13:20,000 --> 08:00:00,000
+Siapa?
+
+138
+07:06:40,000 --> 20:26:40,000
+Ini zona untuk murid Kelas A.<br/>Ini meja untuk murid Kelas A.
+
+139
+02:40:00,000 --> 08:53:20,000
+Murid biasa harus makan di luar.
+
+140
+15:06:40,000 --> 05:20:00,000
+Semua sudah direset.
+
+141
+09:46:40,000 --> 22:13:20,000
+Semua nilai sudah dijadikan nol.
+
+142
+04:26:40,000 --> 00:53:20,000
+Tak ada hak khusus untuk siapa pun.<br/>Kau tak paham itu?
+
+143
+03:33:20,000 --> 01:46:40,000
+Tapi kami tetap Kelas A.
+
+144
+08:00:00,000 --> 16:00:00,000
+Tapi jika nilaimu nol,
+
+145
+16:53:20,000 --> 22:13:20,000
+apa kau bisa sebut dirimu murid Kelas A?
+
+146
+08:00:00,000 --> 14:13:20,000
+Ini hanya eror. Nilai kami akan kembali.<br/>Lihat saja.
+
+147
+11:33:20,000 --> 05:20:00,000
+Nilai yang kau dapat dengan menyontek?
+
+148
+08:53:20,000 --> 15:06:40,000
+Baiklah.
+
+149
+04:26:40,000 --> 17:46:40,000
+Jika tak mematuhi peraturan,<br/>kalian akan menyesal.
+
+150
+00:00:00,000 --> 00:53:20,000
+Sebagai Dewan Siswa, kuperintahkan...
+
+151
+07:06:40,000 --> 22:13:20,000
+Cukup.
+
+152
+20:26:40,000 --> 08:00:00,000
+Direktur sudah membatalkan sistem dewan.
+
+153
+00:00:00,000 --> 12:26:40,000
+Tidak ada lagi Pengadilan Siswa.
+
+154
+21:20:00,000 --> 13:20:00,000
+Meringue, lepaskan ban lenganmu.
+
+155
+17:46:40,000 --> 18:40:00,000
+Biarkan mereka pakai mejanya.
+
+156
+23:06:40,000 --> 19:33:20,000
+Kita tak perlu duduk dengan mereka.
+
+157
+21:20:00,000 --> 22:13:20,000
+Kita bisa kembali ke kelas kita.
+
+158
+10:40:00,000 --> 14:13:20,000
+Sampai nanti.
+
+159
+04:26:40,000 --> 13:20:00,000
+Rasanya menyenangkan.
+
+160
+14:13:20,000 --> 02:40:00,000
+Mereka mengambil semua nilai kita.<br/>Ini tidak adil.
+
+161
+08:53:20,000 --> 16:00:00,000
+Bagaimana bisa mereka mengambil<br/>nilai kita?
+
+162
+22:13:20,000 --> 16:00:00,000
+Apa mereka ingin kita optimis<br/>dan belajar hanya untuk pengetahuan?
+
+163
+08:00:00,000 --> 05:20:00,000
+Apa yang akan kita pakai<br/>untuk mendaftar universitas?
+
+164
+10:40:00,000 --> 06:13:20,000
+Tam, bukankah pamanmu wakil direktur?
+
+165
+16:00:00,000 --> 17:46:40,000
+Kau tak bisa berbuat sesuatu?
+
+166
+06:13:20,000 --> 16:00:00,000
+Orang tuaku marah besar<br/>tentang bocornya soal ujian.
+
+167
+10:40:00,000 --> 00:00:00,000
+Ibuku juga marah.<br/>Kita berusaha keras untuk ini.
+
+168
+06:13:20,000 --> 09:46:40,000
+Kata ayahku dia akan membahas ini<br/>dengan sekolah.
+
+169
+01:46:40,000 --> 21:20:00,000
+Kau harus bertindak, Tam.
+
+170
+01:46:40,000 --> 07:06:40,000
+Semuanya, tenang.
+
+171
+17:46:40,000 --> 15:06:40,000
+Bisa berhenti mengeluh?
+
+172
+09:46:40,000 --> 16:00:00,000
+Kami sedang mencari cara,<br/>tapi kau diam saja.
+
+173
+07:06:40,000 --> 01:46:40,000
+Aku akan temui Direktur.
+
+174
+16:53:20,000 --> 06:13:20,000
+Kau punya rencana<br/>akan mengatakan apa kepadanya?
+
+175
+19:33:20,000 --> 11:33:20,000
+Aku akan mengembalikan nilai kita.
+
+176
+05:20:00,000 --> 22:13:20,000
+Jika kau juga mau, ikuti aku.
+
+177
+06:13:20,000 --> 13:20:00,000
+Duduk di sini tak akan mengembalikannya.
+
+178
+14:13:20,000 --> 15:06:40,000
+Apa murid Kelas B<br/>juga akan menemui Direktur?
+
+179
+07:06:40,000 --> 06:13:20,000
+Direktur, kita sudah gunakan sistem ini<br/>selama empat tahun.
+
+180
+16:00:00,000 --> 19:33:20,000
+Kau tak bisa membuat semuanya menjadi nol.
+
+181
+20:26:40,000 --> 08:00:00,000
+Kau sudah lama pergi. Kau yakin soal ini?
+
+182
+14:13:20,000 --> 05:20:00,000
+Aku setuju.
+
+183
+17:46:40,000 --> 13:20:00,000
+Melakukan ini berarti tak menghormati<br/>para murid dan orang tua
+
+184
+08:00:00,000 --> 08:53:20,000
+yang telah mengerahkan usahanya.
+
+185
+08:53:20,000 --> 15:06:40,000
+Tapi aku setuju dengan Direktur.
+
+186
+04:26:40,000 --> 13:20:00,000
+Setiap kelas akan sama.
+
+187
+12:26:40,000 --> 16:53:20,000
+Kita hanya menyingkirkan<br/>sistem yang tidak adil.
+
+188
+23:06:40,000 --> 14:13:20,000
+Aku tahu kau ketua asosiasi alumni,<br/>tapi kau tak bisa
+
+189
+15:06:40,000 --> 10:40:00,000
+mengatakan sistem Wakil Direktur<br/>tidak adil.
+
+190
+20:26:40,000 --> 13:20:00,000
+Kau harus minta maaf sekarang.
+
+191
+17:46:40,000 --> 15:06:40,000
+Tidak apa-apa, Sommai.
+
+192
+16:53:20,000 --> 18:40:00,000
+Aku mengerti orang-orang meragukanku.
+
+193
+04:26:40,000 --> 03:33:20,000
+Tapi bagaimana kau<br/>akan mengatasi situasi ini?
+
+194
+13:20:00,000 --> 05:20:00,000
+Banyak orang tua dan murid<br/>mencari alasan masuk akal
+
+195
+11:33:20,000 --> 16:00:00,000
+untuk Set Zero ini.
+
+196
+15:06:40,000 --> 15:06:40,000
+Jangan khawatir. Aku akan tangani sendiri.
+
+197
+11:33:20,000 --> 00:00:00,000
+Aku akan memberi tahu setiap murid,
+
+198
+23:06:40,000 --> 00:53:20,000
+orang tua, dan media
+
+199
+16:53:20,000 --> 17:46:40,000
+bahwa ini sepenuhnya keputusanku.
+
+200
+11:33:20,000 --> 07:06:40,000
+Juga, kita masih punya waktu<br/>hingga akhir semester
+
+201
+13:20:00,000 --> 09:46:40,000
+untuk melihat apa peraturan Set Zero<br/>salah atau tidak.
+
+202
+13:20:00,000 --> 20:26:40,000
+Jika semua menganggap ini salah,
+
+203
+16:53:20,000 --> 07:06:40,000
+aku akan bertanggung jawab untuk semuanya.
+
+204
+13:20:00,000 --> 21:20:00,000
+Apa yang kau pertaruhkan di sini?
+
+205
+00:53:20,000 --> 02:40:00,000
+Kau akan pensiun
+
+206
+08:53:20,000 --> 02:40:00,000
+beberapa bulan lagi, bukan?
+
+207
+21:20:00,000 --> 00:53:20,000
+Aku akan pertaruhkan semua,
+
+208
+23:06:40,000 --> 02:40:00,000
+reputasi dan uangku.
+
+209
+18:40:00,000 --> 16:00:00,000
+Bahkan jika aku dicap
+
+210
+04:26:40,000 --> 08:53:20,000
+sebagai direktur terburuk
+
+211
+07:06:40,000 --> 20:26:40,000
+dalam sejarah sekolah ini,
+
+212
+02:40:00,000 --> 21:20:00,000
+aku bersedia melakukannya.
+
+213
+02:40:00,000 --> 06:13:20,000
+Juga, jika kau ingin kembali<br/>ke sistemmu setelahnya,
+
+214
+08:00:00,000 --> 13:20:00,000
+kau berhak melakukannya.
+
+215
+08:53:20,000 --> 00:53:20,000
+Pang, kau datang.
+
+216
+08:00:00,000 --> 21:20:00,000
+Kami membicarakan Set Zero. Kemari.
+
+217
+03:33:20,000 --> 16:00:00,000
+Orang-orang menggila di internet.
+
+218
+18:40:00,000 --> 02:40:00,000
+Mereka yang bisa masuk universitas swasta<br/>tak terlalu terganggu dengan ini.
+
+219
+08:53:20,000 --> 11:33:20,000
+Kurasa ini tak adil.
+
+220
+03:33:20,000 --> 11:33:20,000
+Walau nilaiku rendah<br/>pada setiap mata pelajaran,
+
+221
+17:46:40,000 --> 12:26:40,000
+nilaiku paling tinggi di kelas olahraga.
+
+222
+18:40:00,000 --> 08:00:00,000
+Tunggu, aku baru ingat nilaiku dikurangi.
+
+223
+03:33:20,000 --> 00:53:20,000
+Maafkan aku.
+
+224
+06:13:20,000 --> 21:20:00,000
+Sekolah ini kacau sekarang.
+
+225
+01:46:40,000 --> 04:26:40,000
+Bagaimana menurutmu, Meen?
+
+226
+14:13:20,000 --> 02:40:00,000
+Kita, murid senior,<br/>yang paling terkena dampak.
+
+227
+00:53:20,000 --> 05:20:00,000
+Kita tak punya nilai untuk mendaftar.
+
+228
+15:06:40,000 --> 06:13:20,000
+Perlukah kita bertindak soal ini?
+
+229
+08:53:20,000 --> 04:26:40,000
+Kurasa kita harus diam
+
+230
+16:00:00,000 --> 13:20:00,000
+dan menunggu pernyataan Direktur.
+
+231
+13:20:00,000 --> 14:13:20,000
+Ini buruk.
+
+232
+08:53:20,000 --> 22:13:20,000
+Murid-murid Kelas A dan B<br/>akan menemui Direktur.
+
+233
+17:46:40,000 --> 06:13:20,000
+Meen, kurasa kita harus ikut mereka.
+
+234
+10:40:00,000 --> 10:40:00,000
+Kurasa juga begitu.
+
+235
+07:06:40,000 --> 01:46:40,000
+Aku ikut denganmu.
+
+236
+04:26:40,000 --> 00:00:00,000
+- Kook, tetap di sini.<br/>- Kook, tetap di sini.
+
+237
+10:40:00,000 --> 19:33:20,000
+Ayo, Meen.
+
+238
+01:46:40,000 --> 20:26:40,000
+Apa-apaan itu?
+
+239
+23:06:40,000 --> 19:33:20,000
+Kita harus perjuangkan nilai kita.<br/>Jangan menyerah. Kalian paham?
+
+240
+09:46:40,000 --> 07:06:40,000
+- Benar.<br/>- Jangan menyerah.
+
+241
+18:40:00,000 --> 03:33:20,000
+Kalian harus datang kemari?
+
+242
+02:40:00,000 --> 13:20:00,000
+Kurasa keperluan kita berbeda.
+
+243
+19:33:20,000 --> 21:20:00,000
+Tam, apa yang ingin kau lakukan?
+
+244
+19:33:20,000 --> 05:20:00,000
+Mendapatkan kembali milikku.
+
+245
+10:40:00,000 --> 12:26:40,000
+Tapi Kelas F sepertimu pasti senang.
+
+246
+20:26:40,000 --> 14:13:20,000
+Harus kuakui cukup menyenangkan
+
+247
+00:53:20,000 --> 17:46:40,000
+melihat kalian, murid Kelas A,<br/>panik seperti ini.
+
+248
+04:26:40,000 --> 05:20:00,000
+Tam, aku tak ingin berdebat denganmu.
+
+249
+18:40:00,000 --> 06:13:20,000
+Tapi aku juga merasa<br/>tidak bisa terus seperti ini.
+
+250
+14:13:20,000 --> 08:00:00,000
+Apa ada yang melihat<br/>Direktur meninggalkan ruangannya?
+
+251
+08:00:00,000 --> 03:33:20,000
+Tidak.
+
+252
+14:13:20,000 --> 05:20:00,000
+Ya.
+
+253
+21:20:00,000 --> 05:20:00,000
+RUANG DIREKTUR
+
+254
+11:33:20,000 --> 15:06:40,000
+Kalian semua di sini.
+
+255
+02:40:00,000 --> 07:06:40,000
+Aku senang kalian di sini.<br/>Direktur ingin menemui kalian.
+
+256
+11:33:20,000 --> 22:13:20,000
+Kirim dua perwakilan dari setiap kelas.
+
+257
+06:13:20,000 --> 03:33:20,000
+Silakan masuk.
+
+258
+23:06:40,000 --> 06:13:19,000
+Mereka semua di sini.
+
+259
+08:00:00,000 --> 22:13:20,000
+Kalau begitu kita mulai.
+
+260
+19:33:20,000 --> 03:33:20,000
+Halo, para perwakilan murid senior.
+
+261
+09:46:40,000 --> 12:26:40,000
+Aku paham kalian mencemaskan nilai
+
+262
+18:40:00,000 --> 00:00:00,000
+yang telah susah payah kalian raih.
+
+263
+06:13:20,000 --> 05:20:00,000
+Aku mengerti
+
+264
+11:33:20,000 --> 23:06:40,000
+kalian memerlukan nilai<br/>untuk masuk universitas.
+
+265
+05:20:00,000 --> 20:26:40,000
+Lalu, kenapa kau tak memulihkan sistemnya?
+
+266
+07:06:40,000 --> 09:46:40,000
+Aku setuju dengan perwakilan Kelas A.
+
+267
+22:13:20,000 --> 03:33:20,000
+Atau kau bisa kembalikan<br/>nilai tahun ini saja.
+
+268
+08:53:20,000 --> 19:33:20,000
+Yang kau dapat dengan curang?
+
+269
+06:13:20,000 --> 10:40:00,000
+Apa katamu? Kau ingin berkelahi?
+
+270
+17:46:40,000 --> 01:46:40,000
+Lalu apa? Kau akan mengadili kami?
+
+271
+23:06:40,000 --> 05:20:00,000
+Kau bukan Dewan Siswa lagi.
+
+272
+11:33:20,000 --> 16:00:00,000
+Aku setuju dengan Direktur<br/>bahwa kita harus menjadikan semua nol
+
+273
+02:40:00,000 --> 23:06:40,000
+karena jika sebagian orang curang<br/>untuk mendapat nilai itu,
+
+274
+05:20:00,000 --> 15:06:40,000
+maka ini tak adil bagi kami.
+
+275
+21:20:00,000 --> 16:00:00,000
+Jadi, kita harus selesaikan ini.
+
+276
+14:13:20,000 --> 17:46:40,000
+Walau kami tak punya bukti nyata,
+
+277
+00:00:00,000 --> 17:46:40,000
+nilai sebagian murid lainnya
+
+278
+00:00:00,000 --> 12:26:40,000
+dimanipulasi oleh Wakil Direktur.
+
+279
+00:53:20,000 --> 16:53:20,000
+Lebih baik mulai lagi untuk mengetahui
+
+280
+23:06:40,000 --> 16:53:20,000
+apa orang-orang di atas<br/>akan tetap di tempatnya
+
+281
+23:06:40,000 --> 08:53:20,000
+saat semua diperlakukan adil.
+
+282
+03:33:20,000 --> 12:26:40,000
+Aku setuju. Aku ingin nilaiku kembali,
+
+283
+16:00:00,000 --> 22:13:20,000
+tapi kurasa murid Kelas A<br/>tak pantas mendapatkannya.
+
+284
+04:26:40,000 --> 13:20:00,000
+Jika kita adakan ujian ulang,<br/>kurasa hasilku akan sebaik mereka.
+
+285
+19:33:20,000 --> 00:00:00,000
+Kau tidak sopan.
+
+286
+09:46:40,000 --> 11:33:20,000
+Benar. Kami masuk Kelas A<br/>dengan kemampuan sendiri.
+
+287
+17:46:40,000 --> 21:20:00,000
+Baik. Cukup.
+
+288
+16:53:20,000 --> 03:33:20,000
+Aku paham kalian ingin hal yang berbeda.
+
+289
+06:13:20,000 --> 00:53:20,000
+Tapi saat ini aku tak peduli
+
+290
+11:33:20,000 --> 19:33:20,000
+cara kalian mendapat nilai.
+
+291
+02:40:00,000 --> 10:40:00,000
+Sekarang aku ingin dengar dari kalian
+
+292
+14:13:20,000 --> 12:26:40,000
+bagaimana kalian ingin dapatkan<br/>nilai kalian kembali.
+
+293
+21:20:00,000 --> 05:20:00,000
+Akan bagus jika caranya adil.
+
+294
+05:20:00,000 --> 10:40:00,000
+Sebenarnya, aku ingin katakan bahwa
+
+295
+16:53:20,000 --> 00:00:00,000
+kita sudah punya kontes setiap tahun.
+
+296
+01:46:40,000 --> 08:00:00,000
+Bagaimana jika kita gunakan ini<br/>sebagai metode ujian yang baru?
+
+297
+20:26:40,000 --> 16:53:20,000
+Maksudmu Festival Kontes?
+
+298
+05:20:00,000 --> 23:06:40,000
+Ya.
+
+299
+11:33:20,000 --> 08:53:20,000
+Aku keberatan.
+
+300
+03:33:20,000 --> 19:33:20,000
+Biasanya, ada dua jenis kontes<br/>di Festival Kontes,
+
+301
+23:06:40,000 --> 16:53:20,000
+akademik dan olahraga.
+
+302
+17:46:40,000 --> 16:53:20,000
+Aku tak setuju dengan bagian olahraga.
+
+303
+03:33:20,000 --> 01:46:40,000
+Kami sudah senior.
+
+304
+03:33:20,000 --> 00:00:00,000
+Kami akan segera mengikuti<br/>ujian masuk universitas.
+
+305
+22:13:20,000 --> 08:53:20,000
+Bagaimana kami punya waktu untuk berlatih?
+
+306
+09:46:40,000 --> 21:20:00,000
+Kau benar. Kontes olahraga<br/>tak begitu serius.
+
+307
+07:06:40,000 --> 08:00:00,000
+Itu hanya untuk bersenang-senang.
+
+308
+14:13:20,000 --> 16:00:00,000
+Tapi sebagian kelas pandai olahraga.
+
+309
+03:33:20,000 --> 23:06:40,000
+Kurasa bagus menilai<br/>dari yang pandai mereka lakukan.
+
+310
+05:20:00,000 --> 08:00:00,000
+Juga, menurutku kompetisi yang baik<br/>harus menyenangkan.
+
+311
+09:46:40,000 --> 09:46:40,000
+Aku setuju.
+
+312
+08:00:00,000 --> 12:26:40,000
+Akan baik jika kegiatannya<br/>menguji kemampuan kita.
+
+313
+16:53:20,000 --> 08:53:20,000
+Ya. Aku juga ingin mengajukan<br/>satu kontes lagi.
+
+314
+00:53:20,000 --> 20:26:40,000
+Aku ingin tambahkan kontes pertunjukan
+
+315
+22:13:20,000 --> 05:20:00,000
+dengan setiap kelas mengajukan<br/>satu pertunjukan.
+
+316
+07:06:40,000 --> 01:46:40,000
+Lalu kita akan putuskan pemenangnya<br/>berdasarkan suara
+
+317
+08:00:00,000 --> 16:53:20,000
+dari penonton.
+
+318
+09:46:40,000 --> 02:40:00,000
+Itu kontes konyol.
+
+319
+07:06:40,000 --> 07:06:40,000
+Serius, apa untungnya ini untuk Kelas A?
+
+320
+19:33:20,000 --> 21:20:00,000
+Selain nilai,
+
+321
+22:13:20,000 --> 16:53:20,000
+kita akan lihat apa nilai<br/>yang kalian dulu miliki
+
+322
+23:06:40,000 --> 16:53:20,000
+didapat dengan kemampuan kalian.
+
+323
+16:00:00,000 --> 16:53:20,000
+Kita juga akan tahu apa Kelas A
+
+324
+23:06:40,000 --> 14:13:20,000
+pantas mendapat nomor satu di sekolah
+
+325
+06:13:20,000 --> 18:40:00,000
+dan semua keistimewaan<br/>yang dulu mereka dapatkan.
+
+326
+22:13:20,000 --> 16:53:20,000
+Kedengarannya bagus,
+
+327
+15:06:40,000 --> 06:13:20,000
+tapi itu tidak cukup.
+
+328
+00:53:20,000 --> 04:26:40,000
+Kami tak perlu membuktikan apa pun.<br/>Kami sudah punya semua yang kau katakan.
+
+329
+14:13:20,000 --> 00:53:20,000
+Aku ingin jujur.
+
+330
+18:40:00,000 --> 15:06:40,000
+Lebih baik yang kami miliki dulu<br/>dikembalikan.
+
+331
+19:33:20,000 --> 20:26:40,000
+Baiklah. Bagaimana jika kelas
+
+332
+19:33:20,000 --> 13:20:00,000
+yang mendapat nilai tertinggi<br/>dari ketiga kontes
+
+333
+19:33:20,000 --> 16:00:00,000
+mendapat hak
+
+334
+00:00:00,000 --> 16:00:00,000
+untuk memilih
+
+335
+17:46:40,000 --> 19:33:20,000
+apa kalian semua
+
+336
+09:46:40,000 --> 03:33:20,000
+mendapatkan nilai kalian kembali
+
+337
+09:46:40,000 --> 17:46:40,000
+atau membuat sistem baru setelah Set Zero?
+
+338
+09:46:40,000 --> 18:40:00,000
+- Aku setuju dengan itu.<br/>- Aku keberatan.
+
+339
+13:20:00,000 --> 17:46:40,000
+Aku tak setuju membiarkan pemenangnya<br/>mendapat kuasa sebanyak itu.
+
+340
+21:20:00,000 --> 05:20:00,000
+Tapi jika kita tak melakukan ini,<br/>perdebatannya tak akan selesai.
+
+341
+03:33:20,000 --> 22:13:20,000
+Jika ingin kontes seperti usulanmu,
+
+342
+11:33:20,000 --> 20:26:40,000
+kau harus biarkan semua peserta<br/>mempunyai tujuan yang sama.
+
+343
+02:40:00,000 --> 16:53:20,000
+- Bukankah begitu?<br/>- Aku tidak setuju.
+
+344
+10:40:00,000 --> 05:20:00,000
+Bagaimana menurutmu, Prapang?
+
+345
+07:06:40,000 --> 20:26:40,000
+Aku rasa kita tak boleh memutuskan<br/>untuk semua senior.
+
+346
+12:26:40,000 --> 07:06:40,000
+Lalu apa usulanmu?
+
+347
+08:53:20,000 --> 04:26:40,000
+Kurasa kita harus buat pemungutan suara.
+
+348
+10:40:00,000 --> 07:06:40,000
+Kita harus izinkan semua senior memilih
+
+349
+13:20:00,000 --> 07:06:40,000
+mereka setuju dengan kontes atau tidak.
+
+350
+03:33:20,000 --> 09:46:40,000
+Apa kita sepakat?
+
+351
+07:06:40,000 --> 08:00:00,000
+Baiklah. Kalau begitu aku akan siapkan<br/>pemungutan suara bagi semua murid senior
+
+352
+00:53:20,000 --> 14:13:20,000
+soal memutuskan gunakan Festival Kontes<br/>untuk mengembalikan nilai atau tidak.
+
+353
+00:53:20,000 --> 06:13:20,000
+<span style="style.default_1">Murid-murid senior tersayang,</span>
+
+354
+12:26:40,000 --> 01:46:40,000
+<span style="style.default_1">karena sekolah kita dalam proses Set Zero,</span>
+
+355
+08:00:00,000 --> 12:26:40,000
+<span style="style.default_1">yang menyebabkan nilai semuanya<br/>dijadikan nol.</span>
+
+356
+18:40:00,000 --> 04:26:40,000
+<span style="style.default_1">Direktur dan perwakilan seluruh kelas</span>
+
+357
+10:40:00,000 --> 17:46:40,000
+<span style="style.default_1">telah sepakat</span>
+
+358
+00:00:00,000 --> 21:20:00,000
+<span style="style.default_1">mengatur pemungutan suara<br/>untuk memutuskan Festival Kontes</span>
+
+359
+03:33:20,000 --> 10:40:00,000
+<span style="style.default_1">sebagai ujian besar<br/>bagi seluruh senior atau tidak.</span>
+
+360
+16:53:20,000 --> 16:53:20,000
+<span style="style.default_1">Kelas dengan nilai tertinggi</span>
+
+361
+23:06:40,000 --> 06:13:20,000
+<span style="style.default_1">berhak memilih apa nilai lama<br/>akan digunakan</span>
+
+362
+12:26:40,000 --> 14:13:20,000
+<span style="style.default_1">atau membuat sistem baru.</span>
+
+363
+21:20:00,000 --> 07:06:40,000
+<span style="style.default_1">Aku ingin minta kepada semua senior</span>
+
+364
+13:20:00,000 --> 06:13:20,000
+<span style="style.default_1">untuk memberikan suara dalam hal ini.</span>
+
+365
+13:20:00,000 --> 03:33:20,000
+<span style="style.default_1">Semoga berhasil untuk semua yang memilih.</span>
+
+366
+09:46:40,000 --> 13:20:00,000
+<span style="style.default_1">Sampai jumpa.</span>
+
+367
+17:46:40,000 --> 22:13:20,000
+Hasil untuk Festival Kontes
+
+368
+05:20:00,000 --> 09:46:40,000
+telah mencapai mufakat.
+
+369
+13:20:00,000 --> 02:40:00,000
+Jumlah murid yang mendukung kontes
+
+370
+00:53:20,000 --> 16:00:00,000
+lebih dari mereka yang menentang
+
+371
+22:13:20,000 --> 05:20:00,000
+sebanyak 25 pemilih.
+
+372
+11:33:20,000 --> 15:06:40,000
+Aku minta Bu May membacakan peraturan<br/>Festival Kontes sekali lagi.
+
+373
+00:53:20,000 --> 10:40:00,000
+Biasanya, ada dua kategori kontes.
+
+374
+16:53:20,000 --> 05:20:00,000
+Pertama akademik. Kedua olahraga.
+
+375
+11:33:20,000 --> 03:33:20,000
+Dalam setiap kategori,<br/>akan ada tiga kontes.
+
+376
+22:13:20,000 --> 17:46:40,000
+<span style="style.default_1">Untuk akademik, ada matematika,<br/>sains, dan ilmu sosial.</span>
+
+377
+00:00:00,000 --> 04:26:40,000
+<span style="style.default_1">Untuk olahraga, ada basket, badminton,<br/>dan lari lintas alam.</span>
+
+378
+10:40:00,000 --> 20:26:40,000
+Sebelumnya, kita tidak memasukkan<br/>kontes ini ke dalam nilai.
+
+379
+02:40:00,000 --> 09:46:40,000
+Tapi kali ini berbeda.
+
+380
+16:00:00,000 --> 12:26:40,000
+Jadi, aku ingin membuat Festival Kontes
+
+381
+22:13:20,000 --> 14:13:20,000
+lebih menantang untuk kalian.
+
+382
+20:26:40,000 --> 08:00:00,000
+Pertama, kita akan tambahkan<br/>kategori pertunjukan
+
+383
+12:26:40,000 --> 23:06:40,000
+sebagai kategori resmi ketiga.
+
+384
+20:26:40,000 --> 15:06:40,000
+Kita akan putuskan pemenang
+
+385
+21:20:00,000 --> 13:20:00,000
+berdasarkan jumlah suara.
+
+386
+19:33:20,000 --> 08:53:20,000
+Artinya
+
+387
+15:06:40,000 --> 08:00:00,000
+penonton juga akan berperan dalam kontes.
+
+388
+14:13:20,000 --> 15:06:40,000
+Kedua, aku akan tambah tiga kontes lagi
+
+389
+16:00:00,000 --> 12:26:40,000
+untuk akademik dan olahraga.
+
+390
+07:06:40,000 --> 22:13:20,000
+Kesimpulannya, akan ada<br/>tiga kategori kontes.
+
+391
+20:26:40,000 --> 09:46:40,000
+Di samping kategori pertunjukan,
+
+392
+16:00:00,000 --> 08:53:20,000
+kalian boleh memilih mengikuti<br/>keenam kontes lainnya.
+
+393
+15:06:40,000 --> 09:46:40,000
+<span style="style.default_1">Aku akan izinkan setiap kelas mengajukan</span>
+
+394
+16:00:00,000 --> 08:00:00,000
+<span style="style.default_1">kontes yang ingin diikuti<br/>di aplikasi sekolah.</span>
+
+395
+02:40:00,000 --> 21:20:00,000
+<span style="style.default_1">Kami akan memilih secara acak<br/>ide dari sana.</span>
+
+396
+18:40:00,000 --> 16:53:20,000
+Akhirnya,
+
+397
+11:33:20,000 --> 22:13:20,000
+agar kompetisi ini semakin menegangkan,
+
+398
+00:00:00,000 --> 14:13:20,000
+aku akan mengganti nama kontesnya
+
+399
+09:46:40,000 --> 00:00:00,000
+menjadi Perang Festival Kontes.
+
+400
+10:40:00,000 --> 00:00:00,000
+Kudoakan kalian semua, para senior,<br/>berhasil
+
+401
+06:13:20,000 --> 09:46:40,000
+dan bersaing dengan adil.
+
+402
+23:06:40,000 --> 02:40:00,000
+Sampai jumpa.
+
+403
+08:53:20,000 --> 06:13:20,000
+SIARAN LANGSUNG
+
+404
+16:00:00,000 --> 08:00:00,000
+Aku tak menyangka<br/>kau akan memilih cara ini.
+
+405
+00:53:20,000 --> 13:20:00,000
+Kurasa kau lebih ekstrem daripada aku.
+
+406
+11:33:20,000 --> 16:53:20,000
+Membiarkan pemenang memilih sistem.
+
+407
+07:06:40,000 --> 21:20:00,000
+Taruhannya sangat tinggi. Kau tahu itu?
+
+408
+22:13:20,000 --> 15:06:40,000
+Semua bisa berubah, Wichai.
+
+409
+09:46:40,000 --> 14:13:20,000
+Termasuk kau dan aku.
+
+410
+22:13:20,000 --> 21:20:00,000
+Jika sistem yang dipilih pemenang<br/>tak berhasil,
+
+411
+04:26:40,000 --> 23:06:40,000
+itu akan diganti.
+
+412
+00:00:00,000 --> 04:26:40,000
+Tapi untuk saat ini,
+
+413
+12:26:40,000 --> 02:40:00,000
+semua orang akan mencari cara<br/>menyelesaikan masalah.
+
+414
+18:40:00,000 --> 12:26:40,000
+Tapi kau membubarkan Dewan Siswa.
+
+415
+22:13:20,000 --> 16:53:20,000
+Siapa yang akan memfasilitasi<br/>kontes tahun ini?
+
+416
+19:33:20,000 --> 13:20:00,000
+Fasilitator kontes adalah para guru
+
+417
+19:33:20,000 --> 14:13:20,000
+dan relawan dari murid Kelas 10 dan 11.
+
+418
+03:33:20,000 --> 13:20:00,000
+Baiklah, kalau begitu. Lakukan sesukamu.
+
+419
+16:53:20,000 --> 00:53:20,000
+Jangan lupakan janjimu.
+
+420
+07:06:40,000 --> 01:46:40,000
+Ayo, Sommai.
+
+421
+16:00:00,000 --> 14:13:20,000
+Tam, apa kau punya rencana untuk kontes?
+
+422
+15:06:40,000 --> 17:46:40,000
+Tidak.
+
+423
+00:53:20,000 --> 10:40:00,000
+Aku paham semua terjadi begitu cepat<br/>hingga kau tak sempat bersiap.
+
+424
+06:13:20,000 --> 23:06:40,000
+Jangan cemas. Murid dari Kelas 11<br/>yang akan menjadi juri ada di pihak kita.
+
+425
+17:46:40,000 --> 15:06:40,000
+- Tapi...<br/>- Tak apa-apa.
+
+426
+13:20:00,000 --> 07:06:40,000
+Aku punya insentif untuk mereka.
+
+427
+19:33:20,000 --> 23:06:40,000
+Tapi semua terserah kau juga.
+
+428
+12:26:40,000 --> 00:53:20,000
+Aku mengerti itu, tapi ini berisiko.
+
+429
+04:26:40,000 --> 00:53:20,000
+Bagaimana jika kita ketahuan<br/>seperti sebelumnya?
+
+430
+07:06:40,000 --> 02:40:00,000
+Jadi, kau yakin bisa mengalahkan<br/>kelas lain?
+
+431
+08:00:00,000 --> 00:00:00,000
+Ini bukan ujian biasa.
+
+432
+15:06:40,000 --> 04:26:40,000
+Jika peraturan tak membuat kita menang,<br/>kau harus berusaha lebih keras.
+
+433
+05:20:00,000 --> 12:26:40,000
+Jangan lupa kita mempertaruhkan segalanya<br/>pada kontes ini.
+
+434
+21:20:00,000 --> 18:40:00,000
+Kau mengerti?
+
+435
+17:46:40,000 --> 20:26:40,000
+Ya, aku mengerti.
+
+436
+07:06:40,000 --> 08:00:00,000
+Aku akan buat strategi.
+
+437
+00:00:00,000 --> 12:26:40,000
+PERANG FESTIVAL KONTES<br/>KELAS C
+
+438
+05:20:00,000 --> 14:13:20,000
+PERANG FESTIVAL KONTES<br/>KELAS D
+
+439
+14:13:20,000 --> 08:53:20,000
+KELAS E<br/>PERANG FESTIVAL KONTES
+
+440
+15:06:40,000 --> 20:26:40,000
+PERANG FESTIVAL KONTES
+
+441
+09:46:40,000 --> 08:00:00,000
+Kita semua tahu<br/>soal Perang Festival Kontes.
+
+442
+17:46:40,000 --> 01:46:40,000
+Pilihan kita hanya menang.
+
+443
+18:40:00,000 --> 18:40:00,000
+Kita harus menang?
+
+444
+01:46:40,000 --> 21:20:00,000
+Tapi posisi kita tak aman.
+
+445
+19:33:20,000 --> 17:46:40,000
+Kita mungkin lebih pintar,<br/>tapi jumlah kita lebih sedikit.
+
+446
+06:13:20,000 --> 17:46:40,000
+Hanya Kelas F yang punya murid sedikit<br/>seperti kita.
+
+447
+00:00:00,000 --> 08:53:20,000
+Kau sungguh mengira<br/>mereka akan jadi masalah bagi kita?
+
+448
+13:20:00,000 --> 19:33:20,000
+Jumlah kita mungkin lebih sedikit,
+
+449
+18:40:00,000 --> 11:33:20,000
+tapi nilai kita tak pernah lebih rendah<br/>dari mereka.
+
+450
+22:13:20,000 --> 15:06:40,000
+Lakukan saja perintahku.
+
+451
+06:13:20,000 --> 16:53:20,000
+Meringue, Namkaeng.
+
+452
+10:40:00,000 --> 16:53:20,000
+Di dokumen ini, kalian akan tahu<br/>kontes apa yang akan kalian ikuti,
+
+453
+00:53:20,000 --> 17:46:40,000
+cara bertanding
+
+454
+01:46:40,000 --> 08:00:00,000
+dan cara bermain pada setiap pertandingan.
+
+455
+08:53:20,000 --> 12:26:40,000
+Jika mengikuti ini,
+
+456
+18:40:00,000 --> 19:33:20,000
+kita pasti menang.
+
+457
+05:20:00,000 --> 06:13:20,000
+Yang terpenting, kalian harus<br/>mengerjakan tugas.
+
+458
+16:53:20,000 --> 22:13:20,000
+Tak boleh ada yang bersantai.
+
+459
+00:53:20,000 --> 16:00:00,000
+Sekarang.
+
+460
+09:46:40,000 --> 16:53:20,000
+Mari bicarakan kategori<br/>yang baru ditambahkan.
+
+461
+00:53:20,000 --> 14:13:20,000
+Yaitu pertunjukan.
+
+462
+18:40:00,000 --> 12:26:40,000
+Apa rencana kita untuk kategori itu?<br/>Waktu kita hanya sebulan.
+
+463
+18:40:00,000 --> 11:33:20,000
+Bisakah kita sewa orang<br/>untuk tampil mewakili kita?
+
+464
+18:40:00,000 --> 18:40:00,000
+Tam.
+
+465
+00:00:00,000 --> 01:46:40,000
+Bisa kita dengar ide dari teman sekelas?
+
+466
+02:40:00,000 --> 04:26:40,000
+Kau punya pendapat, Namkaeng?
+
+467
+15:06:40,000 --> 18:40:00,000
+Tidak, aku hanya ingin...
+
+468
+16:00:00,000 --> 21:20:00,000
+Katakan saja.
+
+469
+03:33:20,000 --> 07:06:40,000
+Begini,
+
+470
+07:06:40,000 --> 09:46:40,000
+aku suka menonton pertunjukan boneka<br/>saat masih kecil.
+
+471
+23:06:40,000 --> 02:40:00,000
+Kurasa akan keren membuat<br/>pertunjukan boneka.
+
+472
+08:53:20,000 --> 00:00:00,000
+Hentikan.
+
+473
+12:26:40,000 --> 13:20:00,000
+Bagaimana pertunjukan itu bisa menang?<br/>Kau sudah gila?
+
+474
+16:53:20,000 --> 14:13:20,000
+Meringue, kau punya ide?
+
+475
+12:26:40,000 --> 18:40:00,000
+Ya. Kurasa kita harus tampilkan tarian<br/>dengan musik tradisional Thailand.
+
+476
+00:53:20,000 --> 09:46:40,000
+Kita bisa buat menyenangkan<br/>dan pakai kostum cerah.
+
+477
+13:20:00,000 --> 21:20:00,000
+Kita bisa menari sepenuh hati.<br/>Aku bisa membuat koreografinya.
+
+478
+16:53:20,000 --> 23:06:40,000
+Itu bodoh.
+
+479
+21:20:00,000 --> 07:06:40,000
+Kita kelas terpandai,<br/>pertunjukan kita tak boleh tampak bodoh.
+
+480
+14:13:20,000 --> 02:40:00,000
+Aku punya rencana.
+
+481
+21:20:00,000 --> 00:53:20,000
+Kita akan mengadakan konser paduan suara.
+
+482
+09:46:40,000 --> 04:26:40,000
+Bukan hanya itu.<br/>Kita akan diiringi orkestra.
+
+483
+14:13:20,000 --> 11:33:20,000
+Dari mana kita akan dapat orkestra?
+
+484
+17:46:40,000 --> 22:13:20,000
+Jangan khawatirkan itu.<br/>Ayahku sudah menghubunginya.
+
+485
+02:40:00,000 --> 08:00:00,000
+Aku akan menanggung biayanya.
+
+486
+22:13:20,000 --> 06:13:20,000
+Apa kita setuju? Ayo ikuti rencana ini.
+
+487
+10:40:00,000 --> 06:13:20,000
+Jika mengikuti rencana,<br/>kita bisa kalahkan semua kelas.
+
+488
+16:53:20,000 --> 07:06:40,000
+Dan saat kita menang,<br/>semua akan kembali normal
+
+489
+18:40:00,000 --> 17:46:40,000
+seperti sebelum saat Set Zero ini terjadi.
+
+490
+15:06:40,000 --> 00:53:20,000
+Baiklah, Semua. Ayo tukar pikiran.
+
+491
+11:33:20,000 --> 16:00:00,000
+Mereka ingin kita bersaing<br/>dengan kepandaian kita, 'kan?
+
+492
+16:00:00,000 --> 00:00:00,000
+Orang yang tepat untuk tugas tepat.
+
+493
+20:26:40,000 --> 14:13:20,000
+Benar. Jadi, kalian ingin kompetisi apa?
+
+494
+20:26:40,000 --> 12:26:40,000
+Aku ingin ikut pertandingan menyintas.
+
+495
+16:00:00,000 --> 18:40:00,000
+Aku akan tembak murid Kelas A
+
+496
+00:53:20,000 --> 09:46:40,000
+hingga mereka jatuh ke tanah.
+
+497
+02:40:00,000 --> 12:26:40,000
+Kurasa semua harus ikut itu.
+
+498
+18:40:00,000 --> 10:40:00,000
+- Sungguh?<br/>- Ya.
+
+499
+17:46:40,000 --> 15:06:40,000
+Tapi kalian bisa percayakan aku<br/>untuk olahraga.
+
+500
+10:40:00,000 --> 06:13:20,000
+Dan kau bisa percayakan<br/>AI dan e-sport padaku.
+
+501
+16:00:00,000 --> 10:40:00,000
+Aku akan ikut kontes akademik.
+
+502
+20:26:40,000 --> 23:06:40,000
+Tapi aku mungkin tak bisa mengalahkan<br/>murid Kelas A.
+
+503
+04:26:40,000 --> 07:06:40,000
+Bagaimana dengan pertunjukan?<br/>Kita harus bagaimana?
+
+504
+21:20:00,000 --> 08:53:20,000
+Pertunjukan butuh kerja tim<br/>dari semua orang di kelas kita.
+
+505
+00:53:20,000 --> 22:13:20,000
+Jadi, kita akan buat sesuatu<br/>di mana semua bisa terlibat
+
+506
+01:46:40,000 --> 17:46:40,000
+dan pandai melakukannya.
+
+507
+15:06:40,000 --> 01:46:40,000
+Kurasa kita harus bagi tugas<br/>berdasarkan kesukaan atau kepandaian.
+
+508
+23:06:40,000 --> 21:20:00,000
+Pertunjukan macam apa
+
+509
+18:40:00,000 --> 13:20:00,000
+yang bisa kita buat
+
+510
+19:33:20,000 --> 05:20:00,000
+yang membutuhkan bakat kita semua?
+
+511
+15:06:40,000 --> 00:00:00,000
+Bagaimana dengan bernyanyi?
+
+512
+22:13:20,000 --> 09:46:40,000
+Tunggu. Apa ada yang pandai bernyanyi?
+
+513
+17:46:40,000 --> 06:13:20,000
+Bagaimana dengan menari?
+
+514
+18:40:00,000 --> 08:00:00,000
+Kita punya satu orang yang pandai akting.
+
+515
+06:13:20,000 --> 18:40:00,000
+Kau keberatan jika kita<br/>menampilkan sandiwara?
+
+516
+13:20:00,000 --> 23:06:40,000
+Karena kurasa sandiwara
+
+517
+00:00:00,000 --> 05:20:00,000
+adalah pertunjukan yang bisa dibuat<br/>berdasarkan kesukaan kita.
+
+518
+00:00:00,000 --> 08:53:20,000
+- Keren.<br/>- Itu ide bagus.
+
+519
+15:06:40,000 --> 21:20:00,000
+Benar.
+
+520
+08:00:00,000 --> 00:53:20,000
+Jadi, apa kita buat sandiwara?
+
+521
+16:00:00,000 --> 09:46:40,000
+- Baiklah.<br/>- Setuju.
+
+522
+16:00:00,000 --> 12:26:40,000
+Tapi Miichan, bisakah kau tulis naskah<br/>untuk kita?
+
+523
+03:33:20,000 --> 07:06:40,000
+Baiklah.
+
+524
+19:33:20,000 --> 22:13:20,000
+Semangat!
+
+525
+01:46:40,000 --> 04:26:40,000
+Semangat!
+
+526
+11:33:20,000 --> 04:26:40,000
+Semuanya.
+
+527
+02:40:00,000 --> 02:40:00,000
+Entah berapa banyak yang bisa kubantu<br/>untuk sandiwara.
+
+528
+15:06:40,000 --> 01:46:40,000
+Aku tak pandai soal apa pun<br/>kecuali belajar.
+
+529
+01:46:40,000 --> 07:06:40,000
+Baiklah, kalau begitu,
+
+530
+01:46:40,000 --> 04:26:40,000
+aku akan menunjuk Prapang sebagai pemimpin
+
+531
+10:40:00,000 --> 20:26:40,000
+untuk mengatur pertunjukan.
+
+532
+17:46:40,000 --> 17:46:40,000
+Apa?
+
+533
+12:26:40,000 --> 16:53:20,000
+- Prapang.<br/>- Prapang.
+
+534
+23:06:40,000 --> 04:26:40,000
+- Prapang.<br/>- Prapang.
+
+535
+15:06:40,000 --> 15:06:40,000
+Pang.
+
+536
+02:39:59,000 --> 14:13:19,000
+Pang.
+
+537
+00:53:19,000 --> 05:20:00,000
+Apa?
+
+538
+02:40:00,000 --> 20:26:40,000
+Kenapa kau duduk merenung di sini<br/>sendirian?
+
+539
+15:06:40,000 --> 18:39:59,000
+Aku bicara di telepon.
+
+540
+16:00:00,000 --> 13:20:00,000
+Dengan siapa?
+
+541
+10:40:00,000 --> 23:06:40,000
+Itu...
+
+542
+14:13:19,000 --> 17:46:40,000
+Apa Prapuean?
+
+543
+10:39:59,000 --> 08:00:00,000
+Bukan.
+
+544
+18:40:00,000 --> 08:53:20,000
+Kau memberi tahu orang tuamu<br/>tentang Set Zero?
+
+545
+15:06:39,000 --> 12:26:40,000
+Aku sudah memberi tahu mereka.
+
+546
+08:53:19,000 --> 07:06:39,000
+Apa kata mereka?
+
+547
+16:53:20,000 --> 02:40:00,000
+Awalnya mereka terkejut,
+
+548
+22:13:20,000 --> 17:46:39,000
+tapi mereka mendukungku<br/>dan menyuruhku berusaha.
+
+549
+16:53:20,000 --> 04:26:40,000
+Kalau begitu, tak ada yang perlu<br/>dikhawatirkan.
+
+550
+02:40:00,000 --> 14:13:20,000
+Tidak juga.
+
+551
+08:53:20,000 --> 16:00:00,000
+Meen, katamu
+
+552
+22:13:20,000 --> 23:06:40,000
+kita boleh memilih<br/>buku favorit sendiri, 'kan?
+
+553
+11:33:20,000 --> 06:13:20,000
+Dan kita tak perlu membaca
+
+554
+12:26:40,000 --> 22:13:20,000
+bacaan yang sama seperti orang lain.
+
+555
+00:53:20,000 --> 16:53:20,000
+Aku bilang begitu?
+
+556
+07:06:40,000 --> 15:06:40,000
+Katamu
+
+557
+21:20:00,000 --> 15:06:40,000
+sekolah memaksa kita mempelajari<br/>buku yang sama
+
+558
+03:33:20,000 --> 08:53:20,000
+dan saat kita lulus, semua akan sama.
+
+559
+08:00:00,000 --> 14:13:20,000
+Aku tak pernah mengatakannya.
+
+560
+06:13:20,000 --> 09:46:40,000
+Kau bercanda?
+
+561
+22:13:20,000 --> 16:00:00,000
+Kau dengar itu entah dari mana<br/>dan mengira aku mengatakannya?
+
+562
+02:40:00,000 --> 00:53:20,000
+Jika kau coba membodohiku<br/>saat sedang stres, aku harus pergi.
+
+563
+16:53:20,000 --> 00:53:20,000
+Maaf. Aku bercanda.
+
+564
+01:46:40,000 --> 13:20:00,000
+Tentu saja aku ingat. Ingatanmu bagus.
+
+565
+11:33:20,000 --> 09:46:40,000
+Aku senang kau ingat.
+
+566
+21:20:00,000 --> 18:40:00,000
+Aku ingin punya buku favoritku sendiri.
+
+567
+17:46:40,000 --> 06:13:20,000
+Saat kali pertama dipindahkan ke Kelas F,
+
+568
+22:13:20,000 --> 17:46:40,000
+jelas semua orang punya buku favorit.
+
+569
+16:53:20,000 --> 17:46:40,000
+Tapi jika sekarang
+
+570
+07:06:40,000 --> 06:13:20,000
+kau belum tahu kesukaanmu, tak apa-apa.
+
+571
+01:46:40,000 --> 04:26:40,000
+Jangan khawatirkan itu.
+
+572
+00:00:00,000 --> 02:40:00,000
+Aku hanya ingin punya mimpi,<br/>seperti kalian.
+
+573
+04:26:40,000 --> 23:06:40,000
+Khususnya saat aku melihat kalian semua<br/>sudah menetapkan diri untuk sesuatu.
+
+574
+13:20:00,000 --> 21:20:00,000
+Aku hanya bisa merasa buruk.
+
+575
+12:26:40,000 --> 15:06:40,000
+Pang, kau memilih kembali ke Kelas F.
+
+576
+10:40:00,000 --> 17:46:40,000
+Kau tahu artinya itu?
+
+577
+22:13:20,000 --> 08:00:00,000
+Apa artinya?
+
+578
+00:00:00,000 --> 21:20:00,000
+Artinya
+
+579
+03:33:20,000 --> 16:53:20,000
+kau memilih tak mengikuti<br/>langkah murid Kelas A.
+
+580
+15:06:40,000 --> 00:53:20,000
+Kau selangkah lebih maju.
+
+581
+18:40:00,000 --> 09:46:40,000
+- Itu keren.<br/>- Tapi...
+
+582
+16:00:00,000 --> 22:13:20,000
+Tapi apa?
+
+583
+04:26:40,000 --> 08:53:20,000
+Aku masih tak yakin akan menjadi<br/>manajer yang baik untuk sandiwara
+
+584
+15:06:40,000 --> 08:53:20,000
+dan membuat kelas kita menang.
+
+585
+20:26:40,000 --> 19:33:20,000
+Kita hanya ingin
+
+586
+01:46:40,000 --> 11:33:20,000
+mendapatkan kesempatan<br/>untuk lakukan yang terbaik
+
+587
+09:46:40,000 --> 14:13:20,000
+agar tidak menyesal nantinya. Hanya itu.
+
+588
+03:33:20,000 --> 08:00:00,000
+Juga, apa kau sadar kau pintar,
+
+589
+14:13:20,000 --> 03:33:20,000
+kuat, dan berterus terang?
+
+590
+16:53:20,000 --> 07:06:40,000
+Kau juga pandai memecahkan masalah.
+
+591
+17:46:40,000 --> 05:20:00,000
+Aku tak memilih<br/>sembarang manajer sandiwara.
+
+592
+04:26:40,000 --> 08:00:00,000
+- Kurasa begitu.<br/>- Cukup.
+
+593
+16:00:00,000 --> 16:53:20,000
+Tak boleh ragu lagi. Jika kau terus<br/>duduk di sini dan tampak sedih,
+
+594
+23:06:40,000 --> 17:46:40,000
+bagaimana kau menaikkan<br/>semangat yang lain?
+
+595
+16:00:00,000 --> 07:06:40,000
+Kemarilah.
+
+596
+01:46:40,000 --> 04:26:40,000
+- Kemari.<br/>- Ke mana kau membawaku?
+
+597
+10:40:00,000 --> 23:06:40,000
+Kita lihat saja.
+
+598
+08:00:00,000 --> 01:46:40,000
+Kenapa kau memintaku ganti pakaian?
+
+599
+02:40:00,000 --> 16:00:00,000
+Ayo. Ikuti saja aku.
+
+600
+23:06:40,000 --> 09:46:40,000
+- Meen, kenapa kau memanggilku kemari?<br/>- Fui.
+
+601
+22:13:20,000 --> 04:26:40,000
+Jangan banyak tanya. Boleh pinjam motormu?
+
+602
+08:53:20,000 --> 15:06:40,000
+- Apa?<br/>- Cepat. Berikan kuncinya.
+
+603
+13:20:00,000 --> 22:13:20,000
+- Kau mau ke mana?<br/>- Jangan tanya.
+
+604
+22:13:20,000 --> 04:26:40,000
+Ini motorku.
+
+605
+08:00:00,000 --> 05:20:00,000
+Aku meminjamnya.
+
+606
+06:13:20,000 --> 12:26:40,000
+Kau mau ke mana?
+
+607
+09:46:40,000 --> 20:26:40,000
+- Kami akan menemui Tee.<br/>- Apa?
+
+608
+16:53:20,000 --> 14:13:20,000
+Mereka mau ke mana?
+
+609
+15:06:40,000 --> 14:13:20,000
+Fui.
+
+610
+09:46:40,000 --> 06:13:20,000
+Kau lihat Meen dan Pang?
+
+611
+14:13:20,000 --> 19:33:20,000
+Mereka tadi di sini, sekarang pergi...
+
+612
+05:20:00,000 --> 21:20:00,000
+- Apa?<br/>- membawa motorku.
+
+613
+03:33:20,000 --> 18:40:00,000
+Mereka ke mana?
+
+614
+00:53:20,000 --> 07:06:40,000
+Kata Meen mereka akan menemui Tee.<br/>Dia mengajak Pang.
+
+615
+15:06:40,000 --> 18:40:00,000
+Mereka akan menemui Tee?<br/>Bukankah dia tinggal jauh dari sini?
+
+616
+15:06:40,000 --> 04:26:40,000
+Dan mereka membawa motor kunomu?
+
+617
+08:53:20,000 --> 00:53:20,000
+Hei, hormati motorku.
+
+618
+19:33:20,000 --> 12:26:40,000
+Ia mungkin tua, tapi aku mencintainya.
+
+619
+03:33:20,000 --> 09:46:40,000
+Halo, Moss.
+
+620
+15:06:40,000 --> 14:13:20,000
+Kau bisa jemput aku?
+
+621
+02:40:00,000 --> 00:53:20,000
+Aku di depan sekolah Meen.
+
+622
+10:40:00,000 --> 02:40:00,000
+Aku tahu harus bagaimana.<br/>Ayo ikuti mereka.
+
+623
+18:40:00,000 --> 00:00:00,000
+Bagaimana kita melakukannya?
+
+624
+00:53:20,000 --> 22:13:20,000
+Kita bisa bawa mobil Moss.<br/>Dia menyetir karena itu miliknya.
+
+625
+08:53:20,000 --> 08:00:00,000
+Miichan, kau ikut?
+
+626
+20:26:40,000 --> 23:06:40,000
+Entah kita akan ke mana, tapi baiklah.
+
+627
+07:06:40,000 --> 08:00:00,000
+Fui, kau ikut?
+
+628
+00:00:00,000 --> 08:53:20,000
+Tentu. Ada pelacak GPS di motorku.
+
+629
+21:20:00,000 --> 23:06:40,000
+Kita bisa minta Moss mengikutinya.
+
+630
+20:26:40,000 --> 06:13:20,000
+Mari menginap malam ini.
+
+631
+13:20:00,000 --> 18:40:00,000
+Kita bisa berangkat besok pagi<br/>dan segera sampai di sana.
+
+632
+08:00:00,000 --> 00:00:00,000
+Seharusnya aku membawa pakaian ganti.
+
+633
+08:00:00,000 --> 16:53:20,000
+Bertahanlah, Pang.
+
+634
+21:20:00,000 --> 10:40:00,000
+Seberapa dekat kita?
+
+635
+02:40:00,000 --> 00:00:00,000
+Kita tak sejauh itu sekarang.
+
+636
+18:40:00,000 --> 18:40:00,000
+Kenapa kau mengajakku menemui Tee?
+
+637
+14:13:20,000 --> 15:06:40,000
+Kurasa dia punya saran bagus untukmu.
+
+638
+10:40:00,000 --> 00:53:20,000
+Sebenarnya aku menghubunginya<br/>sebelum datang kemari.
+
+639
+00:53:20,000 --> 22:13:20,000
+Kapan? Apa yang kalian bicarakan?
+
+640
+23:06:40,000 --> 06:13:20,000
+Dia memintaku hadir untukmu.
+
+641
+04:26:40,000 --> 00:00:00,000
+- Hanya itu?<br/>- Ya.
+
+642
+10:40:00,000 --> 05:20:00,000
+Hanya itu.
+
+643
+08:00:00,000 --> 12:26:40,000
+Kenapa kakakku bodoh sekali?
+
+644
+02:40:00,000 --> 14:13:20,000
+Kami tidak pacaran atau apa pun.
+
+645
+08:53:20,000 --> 15:06:40,000
+Kenapa dia harus memberitahuku<br/>dia peduli padaku dan merindukanku?
+
+646
+19:33:20,000 --> 01:46:40,000
+Kenapa dia mengatakannya?
+
+647
+09:46:40,000 --> 19:33:20,000
+Kau sedih lagi.
+
+648
+16:53:20,000 --> 20:26:40,000
+Tidak.
+
+649
+12:26:40,000 --> 00:00:00,000
+Berhenti berbohong.
+
+650
+12:26:40,000 --> 07:06:40,000
+Kau yang menyarankannya.
+
+651
+14:13:20,000 --> 23:06:40,000
+Tidak. Yang kukatakan benar.
+
+652
+06:13:20,000 --> 05:20:00,000
+Kau memulainya. Terima ini.
+
+653
+02:40:00,000 --> 06:13:20,000
+- Terima ini.<br/>- Kau yang mulai.
+
+654
+03:33:20,000 --> 17:46:40,000
+Kau dengar sesuatu?
+
+655
+16:53:20,000 --> 08:53:20,000
+Mungkin bukan apa-apa.
+
+656
+21:20:00,000 --> 08:53:20,000
+Seseorang pasti menabrak pintu.
+
+657
+09:46:40,000 --> 09:46:40,000
+Kurasa begitu.
+
+658
+10:40:00,000 --> 07:06:40,000
+Apa itu penjaga rumah?
+
+659
+19:33:20,000 --> 08:00:00,000
+Siapa itu?
+
+660
+04:26:40,000 --> 13:20:00,000
+Meen.
+
+661
+14:13:20,000 --> 23:06:40,000
+Bisa kita kembali ke kamar?
+
+662
+00:00:00,000 --> 19:33:20,000
+Kita tidak sedang berburu hantu.
+
+663
+19:33:20,000 --> 20:26:40,000
+Meen.
+
+664
+17:46:40,000 --> 10:40:00,000
+Ini bukan apa-apa.
+
+665
+02:40:00,000 --> 08:53:20,000
+Bagus. Ayo kembali ke kamar.
+
+666
+03:33:20,000 --> 17:46:40,000
+Tapi aku dengar suara berisik dari sini.
+
+667
+00:00:00,000 --> 11:33:20,000
+Ayo. Tak ada apa pun di sini.
+
+668
+17:46:40,000 --> 16:00:00,000
+Baiklah.
+
+669
+16:53:20,000 --> 20:26:40,000
+Bagaimana kalian semua kemari?
+
+670
+07:06:40,000 --> 22:13:20,000
+Ada pelacak GPS di motorku.
+
+671
+00:00:00,000 --> 07:06:40,000
+Bijak sekali.
+
+672
+03:33:20,000 --> 09:46:40,000
+Andai seseorang mencurinya,<br/>aku tahu harus mencari ke mana.
+
+673
+13:20:00,000 --> 08:53:20,000
+Mengendarai motor ke luar kota berbahaya.
+
+674
+15:06:40,000 --> 19:33:20,000
+Aku gugup menyetir mobil.
+
+675
+11:33:20,000 --> 04:26:40,000
+Aku juga tak bisa hentikan kalian tadi.<br/>Jadi, aku aku ikuti kalian.
+
+676
+20:26:40,000 --> 17:46:40,000
+Kalian beruntung tak tertabrak truk.
+
+677
+22:13:20,000 --> 08:53:20,000
+Jadi, kau yang mengusulkan<br/>mengikuti kami kemari?
+
+678
+23:06:40,000 --> 08:00:00,000
+Dan hantu ini ide siapa?
+
+679
+04:26:40,000 --> 01:46:40,000
+Sudah kuduga.
+
+680
+11:33:20,000 --> 05:20:00,000
+Meow, Miichan. Kalian harus memilih.
+
+681
+23:06:40,000 --> 23:06:40,000
+Hentikan, Meen. Apa yang kau lakukan?
+
+682
+16:53:20,000 --> 08:00:00,000
+Kau takut hantu.
+
+683
+14:13:20,000 --> 00:53:20,000
+Tapi kau mencoba menakuti kami.
+
+684
+12:26:40,000 --> 21:20:00,000
+Kata orang ada hantu di hutan depan hotel.
+
+685
+06:13:20,000 --> 09:46:40,000
+Ayo kita uji nyali.
+
+686
+10:40:00,000 --> 09:46:40,000
+Tidak. Aku tak mau pergi.
+
+687
+09:46:40,000 --> 02:40:00,000
+Fui, Moss, kalian sudah tidur?
+
+688
+01:46:40,000 --> 08:00:00,000
+Belum.
+
+689
+10:40:00,000 --> 14:13:20,000
+Aku juga.
+
+690
+19:33:20,000 --> 16:00:00,000
+Kau gugup karena menginap<br/>dengan lima gadis cantik?
+
+691
+06:13:20,000 --> 18:40:00,000
+Miichan, aku tahu kau malu.
+
+692
+10:40:00,000 --> 18:40:00,000
+Tapi bisa kau berbagi selimut?<br/>Kami kedinginan.
+
+693
+01:46:40,000 --> 16:53:20,000
+Aku ingin menyewa kamar lain,<br/>tapi aku tak punya uang.
+
+694
+05:20:00,000 --> 16:53:20,000
+Itu jelas alasan.
+
+695
+20:26:40,000 --> 19:33:20,000
+Lebih murah begini.
+
+696
+12:26:40,000 --> 16:53:20,000
+Tapi jika kau masuk wilayahku, mati kau.
+
+697
+23:06:40,000 --> 08:00:00,000
+Kau kejam sekali.
+
+698
+17:46:40,000 --> 21:20:00,000
+Tak apa-apa. Aku akan jadi batasnya.
+
+699
+03:33:20,000 --> 00:53:20,000
+Aku ingin melihat seseorang cemburu.
+
+700
+08:53:20,000 --> 01:46:40,000
+Ini gila. Ayo tidur.<br/>Kita harus bangun pagi besok.
+
+701
+19:33:20,000 --> 16:00:00,000
+Ini seperti perjalanan pertama kita.
+
+702
+18:40:00,000 --> 03:33:20,000
+Jika ini yang pertama,<br/>maka jelas akan ada yang kedua.
+
+703
+17:46:40,000 --> 15:06:40,000
+Tee.
+
+704
+02:40:00,000 --> 15:06:40,000
+Tee.
+
+705
+07:06:40,000 --> 21:20:00,000
+Lihat dia. Dia pingsan<br/>setelah melihat wanita.
+
+706
+21:20:00,000 --> 02:40:00,000
+Kau ingin kuajari?
+
+707
+10:40:00,000 --> 10:40:00,000
+Kalian berdua. Tunggu di luar.
+
+708
+20:26:40,000 --> 10:40:00,000
+Begini. Sedikit lebih tinggi.
+
+709
+15:06:40,000 --> 18:40:00,000
+Seperti itu.
+
+710
+00:00:00,000 --> 00:00:00,000
+Kalian juga. Keluar.
+
+711
+21:20:00,000 --> 15:06:40,000
+Semuanya. Keluar.
+
+712
+07:06:40,000 --> 04:26:40,000
+Maafkan aku.
+
+713
+23:06:40,000 --> 05:20:00,000
+Untuk apa?
+
+714
+12:26:40,000 --> 08:53:20,000
+Kau jatuh karena aku.
+
+715
+01:46:40,000 --> 03:33:20,000
+Tak apa-apa. Aku tak terluka.
+
+716
+14:13:20,000 --> 21:20:00,000
+Jadi, bagaimana mengajar di sini?
+
+717
+20:26:40,000 --> 08:53:20,000
+Baik.
+
+718
+19:33:20,000 --> 00:00:00,000
+Di sini tak sekacau di sana.
+
+719
+03:33:20,000 --> 15:06:40,000
+Jadi, aku bisa konsentrasi mengajar.
+
+720
+02:40:00,000 --> 11:33:20,000
+Murid-murid di sini juga lebih ceria.
+
+721
+09:46:40,000 --> 03:33:20,000
+Bagaimana denganmu? Apa kabar?
+
+722
+02:40:00,000 --> 00:53:20,000
+Bagaimana rasanya?
+
+723
+11:33:20,000 --> 18:40:00,000
+Apa maksudmu?
+
+724
+00:00:00,000 --> 09:46:40,000
+Kau bisa melakukan yang kau inginkan.
+
+725
+03:33:20,000 --> 04:26:40,000
+Bagaimana rasanya?
+
+726
+13:20:00,000 --> 23:06:40,000
+Hei, berhenti membuat wajah sedih.
+
+727
+00:53:20,000 --> 10:40:00,000
+Saat aku melakukan yang harus<br/>atau sebaiknya kulakukan,
+
+728
+12:26:40,000 --> 01:46:40,000
+aku selalu bersungguh-sungguh.
+
+729
+11:33:20,000 --> 08:53:20,000
+Bagus.
+
+730
+19:33:20,000 --> 16:53:20,000
+Tapi sekarang aku tak tahu<br/>harus bersungguh-sungguh untuk apa.
+
+731
+14:13:20,000 --> 15:06:40,000
+Jadi, aku tak tahu seberapa besar<br/>usaha yang harus kukerahkan.
+
+732
+21:20:00,000 --> 21:20:00,000
+Kau harus sungguh-sungguh<br/>pada yang akan kau hadapi.
+
+733
+10:40:00,000 --> 08:53:20,000
+Bagaimana jika aku tak tahu
+
+734
+15:06:40,000 --> 09:46:40,000
+aku sudah berusaha yang terbaik<br/>atau belum?
+
+735
+00:53:20,000 --> 12:26:40,000
+Kau kemari untuk menanyakan ini?
+
+736
+13:20:00,000 --> 09:46:40,000
+Begitu. Sekolah mengadakan<br/>Perang Festival Kontes
+
+737
+04:26:40,000 --> 17:46:40,000
+alih-alih ujian akhir.
+
+738
+11:33:20,000 --> 19:33:20,000
+Semua senior pasti panik
+
+739
+20:26:40,000 --> 22:13:20,000
+karena mereka harus mempersiapkannya.
+
+740
+15:06:40,000 --> 03:33:20,000
+Begitulah.
+
+741
+10:40:00,000 --> 02:40:00,000
+Tapi dengan pertunjukan,<br/>kedengarannya menyenangkan.
+
+742
+10:40:00,000 --> 05:20:00,000
+Apa yang akan kau lakukan?
+
+743
+04:26:40,000 --> 05:20:00,000
+Kami akan menampilkan sandiwara.
+
+744
+15:06:40,000 --> 16:53:20,000
+Aku ditugaskan menjadi manajernya.
+
+745
+19:33:20,000 --> 04:26:40,000
+Mereka semua memilihku.
+
+746
+10:40:00,000 --> 00:53:20,000
+- Tapi aku merasa...<br/>- Baiklah.
+
+747
+18:40:00,000 --> 22:13:20,000
+Ikuti aku.
+
+748
+07:06:40,000 --> 08:00:00,000
+Kau pernah olahraga?
+
+749
+17:46:40,000 --> 17:46:40,000
+Aku bisa naik sepeda dan main voli.
+
+750
+21:20:00,000 --> 22:13:20,000
+Kau pernah main basket?
+
+751
+09:46:40,000 --> 09:46:40,000
+Tidak.
+
+752
+16:53:20,000 --> 19:33:20,000
+Bagus. Aku tantang kau bertanding.
+
+753
+10:40:00,000 --> 20:26:40,000
+Tapi aku tak tahu cara mainnya.
+
+754
+02:40:00,000 --> 08:00:00,000
+Tak apa-apa. Coba saja.
+
+755
+22:13:20,000 --> 08:53:20,000
+- Hanya kita berdua?<br/>- Ya.
+
+756
+04:26:40,000 --> 15:06:40,000
+Ini disebut satu lawan satu.
+
+757
+00:00:00,000 --> 17:46:40,000
+Pertama, kau harus masukkan bola<br/>ke dalam ring.
+
+758
+04:26:40,000 --> 04:26:40,000
+Lagi.
+
+759
+18:40:00,000 --> 08:53:20,000
+Bagus. Ayo mulai.
+
+760
+17:46:40,000 --> 20:26:40,000
+Aku akan mengadangmu.
+
+761
+21:20:00,000 --> 21:20:00,000
+Ayo.
+
+762
+20:26:40,000 --> 10:40:00,000
+Boleh tanya sesuatu?
+
+763
+16:53:20,000 --> 04:26:40,000
+Apa pertanyaanku
+
+764
+08:00:00,000 --> 14:13:20,000
+ada hubungannya dengan memasukkan bola<br/>ke dalam ring?
+
+765
+12:26:40,000 --> 01:46:40,000
+Peraturannya jika kau dapat satu poin,
+
+766
+16:00:00,000 --> 06:13:20,000
+aku akan memberi tahu apa bakatmu.
+
+767
+11:33:20,000 --> 05:20:00,000
+Baiklah.
+
+768
+14:13:20,000 --> 23:06:40,000
+Moss, apa menurutmu<br/>Tee terlalu keras padanya?
+
+769
+08:00:00,000 --> 00:53:20,000
+Kurasa dia punya alasan sendiri.
+
+770
+21:20:00,000 --> 20:26:40,000
+Tee. Jangan terlalu keras padanya.
+
+771
+12:26:40,000 --> 14:13:20,000
+Dia tampak seperti mau mati.
+
+772
+10:40:00,000 --> 01:46:40,000
+Biarkan saja mereka.
+
+773
+17:46:40,000 --> 00:53:20,000
+Jadi, jika aku tak mencetak poin,<br/>kau sungguh tak akan memberitahuku?
+
+774
+17:46:40,000 --> 07:06:40,000
+Peraturan adalah peraturan.
+
+775
+17:46:40,000 --> 22:13:20,000
+Orang biasanya<br/>punya kesukaan atau kepandaian.
+
+776
+01:46:40,000 --> 18:40:00,000
+Yang paling beruntung adalah mereka<br/>yang memiliki keduanya.
+
+777
+00:53:20,000 --> 16:53:20,000
+Tapi aku tak suka basket<br/>dan tak pandai memainkannya.
+
+778
+19:33:20,000 --> 01:46:40,000
+Kau harus mencoba untuk tahu apa kau suka.
+
+779
+14:13:20,000 --> 17:46:40,000
+Apa yang kau sukai?
+
+780
+00:00:00,000 --> 00:00:00,000
+Aku tak tahu.
+
+781
+07:06:40,000 --> 19:33:20,000
+Kalau begitu kau harus coba untuk tahu<br/>apa kau pandai melakukannya.
+
+782
+16:53:20,000 --> 01:46:40,000
+Aku tak tahu apa aku akan menyukainya
+
+783
+08:00:00,000 --> 23:06:40,000
+dan aku tak tahu apa aku<br/>akan pandai melakukannya.
+
+784
+04:26:40,000 --> 14:13:20,000
+Kau hanya perlu mencobanya.
+
+785
+20:26:40,000 --> 08:53:20,000
+Tak ada jalan lain.
+
+786
+17:46:40,000 --> 16:00:00,000
+Dan kau harus berusaha keras.
+
+787
+00:00:00,000 --> 08:00:00,000
+Apa ada cara lebih mudah melakukannya?
+
+788
+02:40:00,000 --> 21:20:00,000
+Ada, tapi ini bukan untuk semua orang.
+
+789
+01:46:40,000 --> 14:13:20,000
+Kau mau terus bermain?
+
+790
+15:06:40,000 --> 05:20:00,000
+Ayo, Pang.
+
+791
+04:26:40,000 --> 13:20:00,000
+Bagaimana dia melakukannya?
+
+792
+19:33:20,000 --> 08:53:20,000
+- Masuk begitu saja.<br/>- Itu bagus.
+
+793
+23:06:40,000 --> 08:00:00,000
+Sekarang bisa beri tahu apa bakatku?
+
+794
+16:00:00,000 --> 19:33:20,000
+Aku juga tak tahu.
+
+795
+21:20:00,000 --> 03:33:20,000
+Apa?
+
+796
+03:33:20,000 --> 00:53:20,000
+Maaf aku terpaksa berbohong.<br/>Tapi aku tak bisa memberitahumu
+
+797
+08:00:00,000 --> 07:06:40,000
+kau pandai soal apa
+
+798
+20:26:40,000 --> 15:06:40,000
+atau jalan mana yang harus diambil.
+
+799
+07:06:40,000 --> 09:46:40,000
+Karena orang yang tahu ini hanya kau.
+
+800
+01:46:40,000 --> 12:26:40,000
+Masalahmu adalah kau takut untuk memulai.
+
+801
+21:20:00,000 --> 10:40:00,000
+Kau harus berani dan hadapi<br/>tantangan dalam hidup
+
+802
+22:13:20,000 --> 08:00:00,000
+hingga kau tahu yang kau suka<br/>atau yang pandai kau lakukan.
+
+803
+05:20:00,000 --> 02:40:00,000
+Sama seperti saat kau putuskan<br/>untuk kembali ke Kelas A.
+
+804
+09:46:40,000 --> 20:26:40,000
+Akhirnya, kau akan tahu<br/>di mana tempatmu seharusnya.
+
+805
+11:33:20,000 --> 15:06:40,000
+Keren sekali.
+
+806
+23:06:40,000 --> 10:40:00,000
+Terima kasih sudah datang menemuiku.
+
+807
+20:26:40,000 --> 23:06:40,000
+Berterimakasihlah pada Meen.<br/>Dia membawa Pang kemari.
+
+808
+16:53:20,000 --> 16:53:20,000
+Ya, aku yang membawanya kemari untukmu.
+
+809
+11:33:20,000 --> 20:26:40,000
+Terima kasih untuk itu.
+
+810
+21:20:00,000 --> 12:26:40,000
+Jadi, apa kau hanya ingin<br/>bermain basket dengannya?
+
+811
+07:06:40,000 --> 20:26:40,000
+Kau bisa, Tee.
+
+812
+15:06:40,000 --> 08:53:20,000
+- Tee.<br/>- Tee.
+
+813
+15:06:40,000 --> 19:33:20,000
+- Tee.<br/>- Tee.
+
+814
+08:00:00,000 --> 05:20:00,000
+Aku janji akan datang<br/>menonton pertunjukanmu.
+
+815
+16:00:00,000 --> 13:20:00,000
+Aku akan menunggumu.
+
+816
+00:00:00,000 --> 17:46:40,000
+Bagus sekali.
+
+817
+00:53:20,000 --> 16:00:00,000
+Semua karena kau.
+
+818
+19:33:20,000 --> 18:40:00,000
+Aku tahu
+
+819
+01:46:40,000 --> 13:20:00,000
+pertunjukan apa yang harus kita buat.
+
+820
+13:20:00,000 --> 11:33:20,000
+Tentang apa pertunjukannya? Beri tahu aku.
+
+821
+19:33:20,000 --> 20:26:40,000
+Ini tentang semua orang di Kelas F
+
+822
+02:40:00,000 --> 03:33:20,000
+dan Domba Hitam.
+
+823
+00:53:20,000 --> 00:53:20,000
+Astaga.
+
+824
+13:20:00,000 --> 12:26:40,000
+Baiklah, Semuanya.<br/>Sutradara ingin menceritakan kisah kita.
+
+825
+03:33:20,000 --> 13:20:00,000
+Aku akan berusaha, Produser.
+
+826
+02:40:00,000 --> 23:06:40,000
+Ini akan keren.
+
+827
+11:33:20,000 --> 00:53:20,000
+Boleh aku menjadi salah satu aktornya?
+
+828
+15:06:40,000 --> 08:53:20,000
+Kau akan jadi tokoh utamanya.
+
+829
+16:53:20,000 --> 22:13:20,000
+Biar aku tulis naskahnya.
+
+830
+20:26:40,000 --> 15:06:40,000
+Tentu.
+
+831
+03:33:20,000 --> 15:06:40,000
+Aku ingin menonton<br/>sandiwara yang kau tulis.
+
+832
+09:46:40,000 --> 08:53:20,000
+Kalau begitu kau harus datang menonton.
+
+833
+22:13:20,000 --> 03:33:20,000
+Baiklah. Aku juga akan merekamnya.
+
+834
+18:40:00,000 --> 16:00:00,000
+Moss, kau sangat manis<br/>jika menyangkut wanita.
+
+835
+19:33:20,000 --> 20:26:40,000
+Sebaiknya kalian pergi.<br/>Perjalanan kalian masih panjang.
+
+836
+10:40:00,000 --> 04:26:40,000
+Sampai jumpa.
+
+837
+10:40:00,000 --> 05:20:00,000
+- Sampai nanti.<br/>- Dah.
+
+838
+00:53:20,000 --> 21:20:00,000
+- Sampai jumpa.<br/>- Sampai jumpa.
+
+839
+19:33:20,000 --> 09:46:40,000
+SEBULAN KEMUDIAN
+
+840
+16:00:00,000 --> 18:40:00,000
+Kami mengadakan<br/>Perang Festival Kontes tahun ini
+
+841
+22:13:20,000 --> 18:40:00,000
+untuk membiarkan para murid senior
+
+842
+00:53:20,000 --> 18:40:00,000
+menunjukkan bakat mereka<br/>dalam setiap kategori
+
+843
+00:53:20,000 --> 09:46:40,000
+dan belajar cara menunjukkan<br/>kerja sama tim dan kegigihan
+
+844
+16:00:00,000 --> 13:20:00,000
+selagi berkompetisi dengan adil.
+
+845
+10:40:00,000 --> 08:00:00,000
+Entah menang atau kalah,
+
+846
+16:00:00,000 --> 16:53:20,000
+kuharap semua
+
+847
+17:46:40,000 --> 20:26:40,000
+berusaha yang terbaik
+
+848
+18:40:00,000 --> 16:00:00,000
+serta tertawa dan menangis bersama.
+
+849
+04:26:40,000 --> 10:40:00,000
+Langsung saja,<br/>mari mulai kontes pertama kita.
+
+850
+11:33:20,000 --> 17:46:40,000
+Survival Royale Battle Game<br/>dimulai sekarang.
+
+851
+18:40:00,000 --> 06:13:20,000
+Terjemahan subtitle oleh Eries Septiani
